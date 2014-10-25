@@ -14,44 +14,43 @@
     <string name="style_title">Style</string>
     <string name="add">Add</string>
     <string name="save">Save</string>
-    <string name="probam_changelog_title">AOSB Changelogs</string>
+    <string name="probam_changelog_title">Argon Changelogs</string>
     <string name="note">NOTE</string>
 
-    <!-- Donate to AOSB Builds -->
-    <string name="donate_probam_title">Support AOSB</string>
-    <string name="donate_probam_summary">Donate to AOSB Builds</string>
-    <string name="donate_link" formatted="false">https://fundrazr.com/campaigns/8fKfe/</string>
+    <!-- Donate to Argon Builds -->
+    <string name="donate_probam_title">Support Argon</string>
+    <string name="donate_probam_summary">Donate to Argon Builds</string>
+    <string name="donate_link" formatted="false">https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=telez_one%40yahoo%2ecom&lc=US&item_name=Argon%20Roms&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest/</string>
 
-    <!-- About AOSB -->
-    <string name="about_probam_settings_title">About AOSB</string>
-    <string name="about_probam">About AOSB</string>
+    <!-- About Argon -->
+    <string name="about_probam_settings_title">About Argon</string>
+    <string name="about_probam">About Argon</string>
     <string name="about_probam_summary">@null</string>
-    <string name="app_name">AOSB</string>
+    <string name="app_name">Argon</string>
     <string name="devs">Developer</string>
     <string name="beta_testers">Beta Testers</string>
-    <string name="aosb_supporter">AOSB Supporter</string>
+    <string name="argon_supporter">Argon Supporter</string>
 
-    <string name="github_hany_alsamman">https://github.com/codex-corp</string>
-    <string name="google_hany_alsamman">https://plus.google.com/+hanyalsamman/about</string>
-    <string name="donate_hany_alsamman">https://fundrazr.com/campaigns/8fKfe/</string>
+    <string name="github_argon_roms">https://github.com/optimumpr</string>
+    <string name="donate_argon_roms"https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=telez_one%40yahoo%2ecom&lc=US&item_name=Argon%20Roms&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest/</string>
 
     <string name="github_cyanogenmod">https://github.com/CyanogenMod</string>
     <string name="donate_cyanogenmod">http://forum.cyanogenmod.com/donate</string>
 
-    <string name="probam_site_title">AOSB website</string>
+    <string name="probam_site_title">Argon website</string>
     <string name="probam_site_summary">Visit the AOSB website for latest news about the ROM.</string>
 
-    <string name="probam">AOSB Build</string>
-    <string name="probam_website_title">AOSB Blog</string>
-    <string name="probam_website_summary">Find latest news and updates about AOSB.</string>
-    <string name="probam_source_title">AOSB Sources</string>
-    <string name="probam_source_summary">AOSB source can be found at www.github.com/ProBAMKK</string>
-    <string name="facebook_probam">http://www.facebook.com/CodexCorp</string>
-    <string name="google_probam">https://plus.google.com/+ProBamNet</string>
-    <string name="github_probam">https://github.com/ProBAMKK</string>
+    <string name="probam">Argon Build</string>
+    <string name="probam_website_title">Argon Blog</string>
+    <string name="probam_website_summary">Find latest news and updates about Argon.</string>
+    <string name="probam_source_title">Argon Sources</string>
+    <string name="probam_source_summary">Argon source can be found at www.github.com/optimumpr</string>
+    <string name="facebook_probam">http://www.facebook.com</string>
+    <string name="google_probam">https://plus.google.com</string>
+    <string name="github_probam">https://github.com/optimumpr</string>
 
     <string name="probam_facebook_title">Facebook Page</string>
-    <string name="probam_facebook_summary">Subscribe to AOSB Facebook page for updates.</string>
+    <string name="probam_facebook_summary">Subscribe to Argon Facebook page for updates.</string>
 
     <!-- Init.d -->
     <string name="header_summary_init_d">@null</string>
@@ -86,7 +85,7 @@
     <string name="pt_read_ahead_kb">Read ahead value</string>
     <string name="pt_minfree_values">Minfree values</string>
     <string name="pt_init_d_credits">Developed by:</string>
-    <string name="ps_init_d_credits">Jared Rummler (JRummy16)</string>
+    <string name="ps_init_d_credits">Slimroms (SRoms)</string>
     <string name="dt_init_d_error">Init.d error</string>
     <string name="dm_init_d_error">It looks like init.d isn\'t setup properly. Please contact your ROM developer.</string>
     <string name="db_exit">Exit</string>
